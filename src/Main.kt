@@ -1,5 +1,5 @@
 fun main() {
-    val number = 327
+    val number = 320
     print("შედეგი: ${getResult(number)}")
 }
 
